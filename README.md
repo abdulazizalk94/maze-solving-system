@@ -66,6 +66,7 @@ Where:
 You can install Pygame by opening your terminal or command prompt and typing:
 ```bash
 pip install pygame
+```bash
 
 ---
 
