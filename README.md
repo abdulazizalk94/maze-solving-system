@@ -76,13 +76,13 @@ To run the intelligent maze pathfinding program, follow these steps carefully:
 
 1. **Open the Project Folder**  
    Locate the folder that contains the project files on your computer.  
-   Inside, you will find a Python file named **`maze_solver.py`**.
+   Inside, you will find a Python file named **`terrain_maze.py`**.
 
 2. **Launch Python**  
    Open your Python environment (for example: **IDLE**, **VS Code**, or **PyCharm**).
 
 3. **Open the Code File**  
-   In your editor, go to *File → Open*, and select the file **`maze_solver.py`**.
+   In your editor, go to *File → Open*, and select the file **`terrain_maze.py`**.
 
 4. **Run the Program**  
    Run the script (for example, press **F5** in IDLE or click **Run ▶️** in VS Code).  
